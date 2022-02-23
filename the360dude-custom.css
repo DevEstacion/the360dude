@@ -1,4 +1,4 @@
-#main img{
+#main + div img{
   top:0;
   left:0;
   width:100%;
@@ -9,7 +9,7 @@
   background-size: 100% 100%;
 }
 
-#main img:before{
+#main + div img:before{
   content:'';
   top:0;
   left:0;
