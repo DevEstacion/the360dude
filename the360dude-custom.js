@@ -1,3 +1,3 @@
 window.addEventListener('load', function() {
-  $("#main").parentElement.children[0].children[0].id = "banner-image";
+  document.getElementById("main").parentElement.children[0].children[0] = "banner-image";
 })
