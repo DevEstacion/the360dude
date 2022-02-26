@@ -2,7 +2,7 @@
   "hotSpotDebug": true,
   "mouseZoom": "fullscreenonly",
   "autoLoad": true,
-  "author": "@ron.the.go"
+  "author": "@ron.the.go",
   "authorUrl": "https://instagram.com/ron.the.go",
   "autoRotate": 1,
   "autoRotateInactivityDelay": 2000
