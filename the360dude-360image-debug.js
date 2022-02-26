@@ -1,5 +1,5 @@
 {   
-  "hotSpotDebug": true,
+  "hotSpotDebug": false,
   "mouseZoom": "fullscreenonly",
   "autoLoad": true,
   "author": "@ron.the.go",
